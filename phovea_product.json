@@ -1,0 +1,16 @@
+[
+  {
+    "type": "web",
+    "label": "Testservice",
+    "repo": "thambukishan/test",
+    "branch": "develop",
+    "additional": []
+  },
+  {
+    "type": "web",
+    "label": "test_server",
+    "repo": "phovea/phovea_server",
+    "branch": "develop",
+    "additional": []
+  }
+]
